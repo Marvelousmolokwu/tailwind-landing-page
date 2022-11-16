@@ -20,6 +20,14 @@ module.exports = {
       fontFamily: {
         body: ["Rubik"],
       },
+      screens: {
+        df: "280px",
+        sm: "375px",
+        md: "768px",
+        lg: "910px",
+        xl: "1024px",
+       xxl: "1400px",
+      },
     },
   },
   plugins: [],
